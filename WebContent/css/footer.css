@@ -1,0 +1,21 @@
+.copy {
+    font-size: 20px;
+}
+
+footer .contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+
+.redesSociales {
+    width: 100%;
+    text-align: center;
+    font-size: 28px;
+}
+
+.redesSociales a {
+    color: #333;
+    text-decoration: none;
+}
